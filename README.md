@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a graduate student research assistant at [FZI Forschungszentrum Informatik](https://www.fzi.de/startseite/).
+- 🌱 In my free time, I am improving my Deep Learning skills as part of [Udacity's Deep Learning Nanodegree Program](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
+
+
 <!--
 **alexandergrote/alexandergrote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
