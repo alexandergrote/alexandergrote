@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a research associate at [FZI Forschungszentrum Informatik](https://www.fzi.de/startseite/) and [Karlsruhe Institute of Technology](https://im.iism.kit.edu/index.php).
-- 🌱 My research focuses on Explainable AI (XAI) and how to detect a filter bubble in Recommender Systems.
+- 🔭 I’m currently working as a research associate at [Karlsruhe Institute of Technology](https://im.iism.kit.edu/index.php).
+- 🌱 My research focuses on practical applications of Machine Learning and Data Science.
 
 
 <!--
