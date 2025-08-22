@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ### About me
-- 🔭 I’m currently working as a research associate at [Karlsruhe Institute of Technology](https://im.iism.kit.edu/index.php).
+- 🔭 I’m working as a research associate at [Karlsruhe Institute of Technology](https://im.iism.kit.edu/index.php).
 - 🌱 My research focuses on practical applications of Machine Learning and Data Science.
-- 🇨🇭 Currently, I am based in Basel, Switzerland.
+- 🇨🇭 I currently live in Basel, Switzerland.
 
 ### Publications
 
