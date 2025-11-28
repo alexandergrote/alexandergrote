@@ -1,1 +1,6 @@
 references.md
+*.aux
+*.bbl
+*.fdb_latexmk
+*.fls
+*.log
