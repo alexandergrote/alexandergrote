@@ -44,6 +44,11 @@ the Polarizing Impact of Ideology-Based News Recommendation from Two
 Experiments in Germany and the US.” *Information, Communication &
 Society*, 1–20.
 
+8) Grote, Alexander, Anuja Hariharan, and Christof Weinhardt. 2025.
+“Finding the Needle in the Haystack—an Interpretable Sequential Pattern
+Mining Method for Classification Problems.” *Frontiers in Big Data*
+Volume 8 - 2025. <https://doi.org/10.3389/fdata.2025.1604887>.
+
 
 <!--
 **alexandergrote/alexandergrote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
