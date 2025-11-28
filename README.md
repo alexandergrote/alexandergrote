@@ -26,28 +26,28 @@ Weinhardt. 2024. “How Good Are You? An Empirical Classification
 Performance Comparison of Large Language Models with Traditional Open
 Set Recognition Classifiers (Short Paper).” In *ZEUS*, 27–32.
 
-5) Iana, Andreea, Mehwish Alam, Alexander Grote, Nevena Nikolajevic,
+5) Grote, Alexander, Anuja Hariharan, and Christof Weinhardt. 2025.
+“Finding the Needle in the Haystack—an Interpretable Sequential Pattern
+Mining Method for Classification Problems.” *Frontiers in Big Data*
+Volume 8 - 2025. <https://doi.org/10.3389/fdata.2025.1604887>.
+
+6) Iana, Andreea, Mehwish Alam, Alexander Grote, Nevena Nikolajevic,
 Katharina Ludwig, Philipp Müller, Christof Weinhardt, and Heiko
 Paulheim. 2023. “NeMig–a Bilingual News Collection and Knowledge Graph
 about Migration.” *arXiv Preprint arXiv:2309.00550*.
 
-6) Ludwig, Katharina, Alexander Grote, Andreea Iana, Mehwish Alam, Heiko
+7) Ludwig, Katharina, Alexander Grote, Andreea Iana, Mehwish Alam, Heiko
 Paulheim, Harald Sack, Christof Weinhardt, and Philipp Müller. 2023.
 “Divided by the Algorithm? The (Limited) Effects of Content-and
 Sentiment-Based News Recommendation on Affective, Ideological, and
 Perceived Polarization.” *Social Science Computer Review* 41 (6):
 2188–2210.
 
-7) Ludwig, Katharina, Philipp Müller, Nevena Nikolajevic, and Alexander
+8) Ludwig, Katharina, Philipp Müller, Nevena Nikolajevic, and Alexander
 Grote. 2025. “Putting ‘Filter Bubble’effects to the Test: Evidence on
 the Polarizing Impact of Ideology-Based News Recommendation from Two
 Experiments in Germany and the US.” *Information, Communication &
 Society*, 1–20.
-
-8) Grote, Alexander, Anuja Hariharan, and Christof Weinhardt. 2025.
-“Finding the Needle in the Haystack—an Interpretable Sequential Pattern
-Mining Method for Classification Problems.” *Frontiers in Big Data*
-Volume 8 - 2025. <https://doi.org/10.3389/fdata.2025.1604887>.
 
 
 <!--
